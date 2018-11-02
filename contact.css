@@ -1,0 +1,28 @@
+ .sectionlogin-form {
+    padding-top: 80px;
+        background-color: white;
+    }
+    .log-informi .form-control {
+        border: none;
+        border-radius: 0;
+        border-bottom: 1px solid #ced4da;
+        padding: 10px;  
+        width: 85%;
+    }
+    .log-informi .form-control.msbd {
+        border: 1px solid #ced4da;
+        height: auto !important;
+        border-radius: 8px;
+    }
+    .form-control:focus {
+        box-shadow: none !important;
+        border-color: #ced4da !important;
+    }
+    .mt-30 {
+        margin-top: 30px;
+    }
+    .log-informi {
+    width: 850px;
+    margin: 0 auto;
+    max-width: 100%;
+}
